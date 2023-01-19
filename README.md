@@ -1,3 +1,5 @@
+- https://upptime.js.org/docs/
+
 # [📈 Live Status](https://uvacoder.github.io/monitorme): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [uvacoder](https://abclinks.vercel.app/), powered by [Upptime](https://github.com/upptime/upptime).
