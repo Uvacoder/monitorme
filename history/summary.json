@@ -22,18 +22,20 @@
     "url": "https://abcportfolio15.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/abcportfolio15.vercel.app.ico",
     "slug": "abcportfolio15",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 144,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
-    "dailyMinutesDown": {}
+    "time": 275,
+    "timeDay": 195,
+    "timeWeek": 275,
+    "timeMonth": 275,
+    "timeYear": 275,
+    "dailyMinutesDown": {
+      "2023-01-24": 0
+    }
   },
   {
     "name": "Hacker News",
