@@ -34,7 +34,7 @@
     "timeMonth": 95,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2023-03-16": 893,
+      "2023-03-16": 900,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
@@ -93,19 +93,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 149,
-    "timeWeek": 261,
-    "timeMonth": 252,
-    "timeYear": 279,
+    "time": 281,
+    "timeDay": 216,
+    "timeWeek": 271,
+    "timeMonth": 256,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2023-03-16": 0
+      "2023-03-16": 6
     }
   }
 ]
