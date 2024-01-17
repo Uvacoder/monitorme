@@ -4,19 +4,19 @@
     "url": "https://abclinks.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/abclinks.vercel.app.ico",
     "slug": "my-links",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 86,
+    "time": 131,
+    "timeDay": 85,
     "timeWeek": 80,
-    "timeMonth": 104,
-    "timeYear": 132,
+    "timeMonth": 103,
+    "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 13
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 63,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-01-17": 1303,
+      "2024-01-17": 1316,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
