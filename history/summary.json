@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/abcportfolio15.vercel.app.ico",
     "slug": "abcportfolio15",
     "status": "up",
-    "uptime": "20.15%",
+    "uptime": "20.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.39%",
+    "uptimeYear": "25.41%",
     "time": 113,
     "timeDay": 117,
     "timeWeek": 67,
@@ -304,8 +304,7 @@
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
-      "2023-06-03": 1440,
-      "2023-06-02": 1440
+      "2023-06-03": 1440
     }
   },
   {
@@ -315,9 +314,9 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 365,
     "timeDay": 86,
@@ -325,7 +324,6 @@
     "timeMonth": 310,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2024-05-31": 7,
       "2024-04-26": 20,
       "2024-01-10": 126,
       "2023-12-15": 31,
