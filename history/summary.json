@@ -11,10 +11,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 130,
-    "timeWeek": 113,
-    "timeMonth": 109,
-    "timeYear": 128,
+    "timeDay": 102,
+    "timeWeek": 115,
+    "timeMonth": 110,
+    "timeYear": 127,
     "dailyMinutesDown": {
       "2024-10-22": 19
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/abcportfolio15.vercel.app.ico",
     "slug": "abcportfolio15",
     "status": "up",
-    "uptime": "38.53%",
+    "uptime": "38.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "66.23%",
+    "uptimeYear": "66.51%",
     "time": 113,
-    "timeDay": 106,
-    "timeWeek": 95,
-    "timeMonth": 103,
+    "timeDay": 188,
+    "timeWeek": 106,
+    "timeMonth": 106,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2024-10-22": 19,
@@ -157,8 +157,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
-      "2023-10-31": 1440,
-      "2023-10-30": 1440
+      "2023-10-31": 1440
     }
   },
   {
@@ -171,11 +170,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 366,
-    "timeDay": 509,
-    "timeWeek": 329,
-    "timeMonth": 331,
+    "timeDay": 339,
+    "timeWeek": 324,
+    "timeMonth": 332,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2024-04-26": 20,
