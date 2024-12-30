@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 81,
-    "timeWeek": 151,
-    "timeMonth": 126,
+    "timeDay": 78,
+    "timeWeek": 133,
+    "timeMonth": 127,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2024-10-22": 19
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/abcportfolio15.vercel.app.ico",
     "slug": "abcportfolio15",
     "status": "up",
-    "uptime": "43.90%",
+    "uptime": "43.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.22%",
+    "uptimeYear": "83.49%",
     "time": 112,
-    "timeDay": 84,
+    "timeDay": 86,
     "timeWeek": 115,
-    "timeMonth": 113,
+    "timeMonth": 114,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2024-10-22": 19,
@@ -95,8 +95,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   },
   {
@@ -105,16 +104,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 367,
-    "timeDay": 436,
-    "timeWeek": 372,
-    "timeMonth": 329,
-    "timeYear": 363,
+    "timeDay": 299,
+    "timeWeek": 363,
+    "timeMonth": 333,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2024-04-26": 20,
       "2024-01-10": 126
