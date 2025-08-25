@@ -4,9 +4,9 @@
     "url": "https://abclinks.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/abclinks.vercel.app.ico",
     "slug": "my-links",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 146,
     "timeYear": 128,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2024-10-22": 19
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://abcportfolio15.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/abcportfolio15.vercel.app.ico",
     "slug": "abcportfolio15",
-    "status": "up",
-    "uptime": "58.03%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "58.05%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 134,
     "timeYear": 119,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2024-10-22": 19
     }
   },
