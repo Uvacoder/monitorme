@@ -8,12 +8,12 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 130,
-    "timeDay": 218,
-    "timeWeek": 147,
-    "timeMonth": 153,
+    "timeDay": 68,
+    "timeWeek": 141,
+    "timeMonth": 154,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2025-09-21": 94,
@@ -26,8 +26,7 @@
       "2025-08-29": 16,
       "2025-08-28": 45,
       "2025-08-26": 48,
-      "2025-08-25": 22,
-      "2024-10-22": 19
+      "2025-08-25": 22
     }
   },
   {
@@ -36,15 +35,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/abcportfolio15.vercel.app.ico",
     "slug": "abcportfolio15",
     "status": "up",
-    "uptime": "60.38%",
-    "uptimeDay": "98.01%",
+    "uptime": "60.42%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.78%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.91%",
     "time": 122,
-    "timeDay": 159,
-    "timeWeek": 145,
-    "timeMonth": 154,
+    "timeDay": 179,
+    "timeWeek": 147,
+    "timeMonth": 158,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2025-10-20": 29,
@@ -58,8 +57,7 @@
       "2025-08-29": 15,
       "2025-08-28": 45,
       "2025-08-26": 47,
-      "2025-08-25": 22,
-      "2024-10-22": 19
+      "2025-08-25": 22
     }
   },
   {
@@ -74,9 +72,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 345,
-    "timeWeek": 289,
-    "timeMonth": 309,
+    "timeDay": 292,
+    "timeWeek": 277,
+    "timeMonth": 313,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2025-10-10": 15
