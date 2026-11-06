@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/abclinks.vercel.app.ico",
     "slug": "my-links",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.95%",
+    "uptimeDay": "71.97%",
+    "uptimeWeek": "96.00%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.90%",
     "time": 140,
-    "timeDay": 249,
-    "timeWeek": 162,
+    "timeDay": 83,
+    "timeWeek": 168,
     "timeMonth": 159,
     "timeYear": 139,
     "dailyMinutesDown": {
@@ -21,7 +21,8 @@
       "2025-12-17": 51,
       "2025-12-16": 5,
       "2026-03-01": 22,
-      "2026-11-05": 0
+      "2026-11-06": 297,
+      "2026-11-05": 106
     }
   },
   {
@@ -36,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 125,
-    "timeDay": 363,
-    "timeWeek": 171,
-    "timeMonth": 145,
+    "timeDay": 110,
+    "timeWeek": 179,
+    "timeMonth": 146,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2025-11-20": 19,
@@ -60,10 +61,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 339,
-    "timeWeek": 223,
+    "timeDay": 333,
+    "timeWeek": 221,
     "timeMonth": 227,
-    "timeYear": 266,
+    "timeYear": 267,
     "dailyMinutesDown": {}
   }
 ]
